@@ -1,23 +1,27 @@
-# 🌤 React Weather App
-
-Welcome to the **React Weather App** – a sleek, interactive, and dynamic way to check the weather anywhere in the world!  
-Whether it’s sunny ☀️, rainy 🌧️, or snowy ❄️, this app not only shows you the **current weather** but also the **5-day forecast**, **air quality**, and more – all wrapped up in a **beautiful, dynamic interface**.  
-
----
-
 ## 🌟 Features
 
-Here’s what makes this weather app exciting:
+- **Search by City** 🌆 – Type any city and get real-time weather info including temperature, weather description, wind speed, and sunrise/sunset times.
 
-- **Search by City** 🌆 – Type any city and get its current weather instantly.  
-- **Current Location Support** 📍 – Automatically detect your location and display local weather.  
-- **Dynamic Backgrounds** 🎨 – Watch the app’s background change based on weather conditions like clear skies, clouds, rain, snow, or mist.  
-- **5-Day Forecast Chart** 📅 – See the temperature trend for the next 5 days at a glance using a neat line chart.  
-- **Air Quality Index (AQI)** 🟢 – Stay safe by knowing the air quality.  
-- **Wind, Sunrise, Sunset Info** 🌬️☀️🌇 – Get detailed info about wind speed, sunrise, and sunset times.  
-- **Neat & Centered Design** – Everything is nicely centered, responsive, and easy to read.  
+- **Current Location Support** 📍 – Use your browser’s geolocation to automatically fetch weather for your current location.
 
----
+- **Dynamic Backgrounds** 🎨 – Background changes according to weather:  
+  - Clear sky 🌞  
+  - Clouds ☁️  
+  - Rain 🌧️  
+  - Snow ❄️  
+  - Mist/Fog 🌫️  
+
+- **5-Day Forecast Chart** 📅 – Line chart showing temperature trends for the next 5 days, making planning easy and intuitive.
+
+- **Air Quality Index (AQI)** 🟢 – Displays AQI number and label to indicate air pollution level (Good → Very Poor), helpful for health and outdoor activity planning.
+
+- **Wind, Sunrise, Sunset Info** 🌬️☀️🌇 – Shows wind speed, sunrise, and sunset times for better daily planning.
+
+- **Responsive & Centered Design** 🎯 – All information displayed in a centered card layout, adjusting smoothly to different screen sizes.
+
+- **User-Friendly Buttons & Input** 🖱️ – Search button for city input and current location button for instant local weather updates.
+
 
 ## 🖼️ Screenshot
+<img width="1664" height="1518" alt="image" src="https://github.com/user-attachments/assets/15612aa2-2d18-463e-b744-ba497947886f" />
 
