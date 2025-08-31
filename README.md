@@ -1,6 +1,10 @@
+# 🌤 React Weather App
+
+The **React Weather App** provides a comprehensive and interactive way to monitor weather conditions worldwide.  
+It delivers accurate **current weather data**, a **5-day temperature forecast**, **air quality information**, and additional details, all presented within a **clean and dynamic user interface** suitable for both desktop and mobile use.
 ## 🌟 Features
 
-- **Search by City** 🌆 – Type any city and get real-time weather info including temperature, weather description, wind speed, and sunrise/sunset times.
+- **Search by City** 🌆 – Type any city and get real-time weather info, including temperature, weather description, wind speed, and sunrise/sunset times.
 
 - **Current Location Support** 📍 – Use your browser’s geolocation to automatically fetch weather for your current location.
 
